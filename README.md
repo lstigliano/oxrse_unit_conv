@@ -2,8 +2,8 @@
 
 [![Unittest](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml/badge.svg)](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml)
 
-## OxRSE training
-This is a trainig repsoitory for OxRSE day 2.
+## Training repository
+This is a training repository for OxRSE training day 2.
 
 ## Overview
 
